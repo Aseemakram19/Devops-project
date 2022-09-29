@@ -1,0 +1,2 @@
+hi 
+this to test for git reset command
